@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Contains\ information\ on\ an\ individual\ card\r\n\r\n\ @author\ (Dante\ Paterna)\r\n\ @version\ (3/9/2022)\r\n
+comment1.params=s\ val
+comment1.target=Card(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n\ \r\n\ @param\ \ \ s\ \ \ \ \ \ \ the\ suit\ of\ the\ card\r\n\ @param\ \ \ val\ \ \ \ \ the\ value\ of\ the\ card\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\r\n\ Returns\ the\ suit\ of\ the\ card\r\n\ \r\n\ @return\ \ the\ suit\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Returns\ the\ value\ of\ the\ card\r\n\ \r\n\ @return\ \ the\ value\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ the\ String\ that\ represents\ the\ card\ object\r\n\ \r\n\ @return\ \ string\ information\ of\ card\r\n
+numComments=5

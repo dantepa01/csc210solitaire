@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlaySol
+comment0.text=\r\n\ PlaySol\ will\ contain\ the\ methods\ and\ information\ we\ need\ to\ run\r\n\ a\ successful\ solitaire\ simulation.\r\n\r\n\ @author\ (Dante\ Paterna)\r\n\ @version\ (3/15/2022)\r\n
+comment1.params=
+comment1.target=PlaySol()
+comment1.text=\r\n\ Intializes\ the\ deck\ and\ each\ pile\ used\ for\ the\ game.\r\n
+comment2.params=
+comment2.target=void\ playGame()
+comment2.text=\r\n\ Runs\ a\ simulation\ of\ a\ solitaire\ game.\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SolPile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SolPile\ here.\r\n\r\n\ @author\ (Dante\ Paterna)\r\n\ @version\ (3/9/2022)\r\n
+comment1.params=
+comment1.target=SolPile()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SolPile\r\n
+comment2.params=c
+comment2.target=void\ addCard(Card)
+comment2.text=\r\n\ Adds\ a\ card\ to\ the\ collection\ and\ increments\ the\ current\ card\r\n\ index\r\n\ \r\n\ @param\ \ \ c\ \ \ the\ card\ to\ be\ added\r\n
+comment3.params=
+comment3.target=Card\ removeCard()
+comment3.text=\r\n\ Returns\ the\ top\ card\ of\ the\ pile\ and\ decrements\ the\ current\ card\r\n\ counter\r\n\ \r\n\ @return\ \ the\ top\ card\ of\ the\ pile\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ the\ information\ of\ the\ top\ card\r\n\ \r\n\ @return\ \ the\ top\ card's\ toString\ value\r\n
+numComments=5

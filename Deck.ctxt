@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ \ \ A\ skeleton\ for\ class\ Deck\r\n\ \ \ maintains\ an\ ArrayList\ of\ 52\ cards\r\n\ \ \ deal()\ returns\ "top"\ card.\r\n\ \ \ Outputs\ error\ message\ and\ returns\ a\ "blank"\ card\ when\ desck\ is\ exhausted\r\n\r\n\ \ \ @author\ \ \ \ \ (Dante\ Paterna)\r\n\ \ \ @version\ \ \ \ (3/9/2022)\r\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=Card\ deal()
+comment2.text=\r\n\ Returns\ the\ next\ card\ object\ in\ the\ deck.\ if\ current\ card\ index\r\n\ is\ too\ large,\ returns\ an\ empty\ card\r\n\ \r\n\ @return\ \ next\ card\ in\ deck\r\n
+numComments=3
